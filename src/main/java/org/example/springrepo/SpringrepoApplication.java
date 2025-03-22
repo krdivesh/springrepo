@@ -8,6 +8,7 @@ public class SpringrepoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringrepoApplication.class, args);
+        System.out.println("hey");
     }
 
 }
